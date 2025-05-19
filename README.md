@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 align="center">
+  <h1>
     Hi there 👋 I'm Luis Durán
   </h1>
+  <img src="1SG_Luis.png" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" />
 </div>
-<img src= "1SG_Luis.png">
 
 <!--
 **luis8624/luis8624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
