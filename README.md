@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">
+    Hi there 👋 I'm Luis Durán
+  </h1>
+</div>
 
 <!--
 **luis8624/luis8624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
