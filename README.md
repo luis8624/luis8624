@@ -3,6 +3,7 @@
     Hi there 👋 I'm Luis Durán
   </h1>
 </div>
+<img src= "Portadas_luis8624.jpg">
 
 <!--
 **luis8624/luis8624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
