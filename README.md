@@ -34,19 +34,19 @@
  
 <!-- 
 Segunda fila
+-->
  <tr>
   <td width="50%">
    <br>
-   <h3 align="center">The Lullaby of Life</h3>
+   <h3 align="center">Project GS</h3>
    <div align ="center">
-     <a href="https://store.steampowered.com/app/2493180/The_Lullaby_of_Life/" target="_blank">
-       <img src="proyectos/TLOL_1024.jpg" width="480" alt="The Lullaby of Life image" >
+     <a href="https://www.kickstarter.com/projects/j3f33m1/project-gs-a-2d-survivors-like-game-with-rpg-elements?r" target="_blank">
+       <img src="gs.jpg" width="480" alt="Project GS" >
      </a>
     <br>
    </div>
   </td>
  </tr>
--->
 
 </table>
 </div>
