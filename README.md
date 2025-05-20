@@ -4,6 +4,16 @@
   </h1>
   <img src="1SG_Luis.png" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" />
 </div>
+<br>
+
+## **About me:**
+- 🎮 Unity developer since 2021
+- 🧠 Gameplay logic
+- 🏎 performance
+- 🐛 Bug fixing
+- 🔨 Tools testing
+- 💪 Always learning and practicing
+<br>
 
 <table>
  <tr>
