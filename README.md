@@ -13,7 +13,7 @@
    <h3 align="center">My Peterinary</h3>
    <div align ="center">
      <a href="https://play.google.com/store/apps/details?id=com.hyperbeard.mypeterinary&hl=es_MX" target="_blank">
-       <img src="Pet.mp4" width="480" alt="My Peterinary" >
+       <img src="Pet.jpg" width="480" alt="My Peterinary" >
      </a>
     <br>
    </div>
